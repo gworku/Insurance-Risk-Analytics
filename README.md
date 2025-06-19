@@ -32,7 +32,7 @@ virtualenv
 
         Clone the project repository to your local machine using the following command:
     
-        git clone https://github.com/gworku/AlphaCare-Insurance-Solutions
+        git clone https://github.com/gworku/Insurance-Risk-Analytics
 
     2. Install dependencies
     
